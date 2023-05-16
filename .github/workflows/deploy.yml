@@ -3,7 +3,7 @@ name: Deploy Binance Future to DigitalOcean
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
